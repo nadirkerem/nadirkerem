@@ -9,69 +9,87 @@
 
 ### Languages and Skills
 
-<img
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   width="48"
   height="48"
   alt="HTML5"
-/><img
+/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
   width="48"
   height="48"
   alt="CSS3"
-/><img
+/></a>
+<a href="https://sass-lang.com"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
   width="48"
   height="48"
   alt="SASS"
-/><img
+/></a>
+<a href="https://developer.mozilla.org/en/JavaScript"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   width="48"
   height="48"
   alt="JavaScript"
-/><img
+/></a>
+<a href="https://www.typescriptlang.org/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   width="48"
   height="48"
   alt="TypeScript"
-/><img
+/></a>
+<a href="https://reactjs.org/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   width="48"
   height="48"
   alt="React"
-/><img
+/></a>
+<a href="https://redux-toolkit.js.org/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
   width="48"
   height="48"
   alt="Redux Toolkit"
-/><img
+/></a>
+<a href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+  width="48"
+  height="48"
+  alt="Material UI"
+/></a>
+<a href="https://tailwindcss.com/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
   width="48"
   height="48"
   alt="Tailwind CSS"
-/><img
+/></a>
+<a href="https://getbootstrap.com/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
   width="48"
   height="48"
   alt="Bootstrap"
-/><img
+/></a>
+<a href="https://nodejs.org/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   width="48"
   height="48"
   alt="Node.js"
-/><img
+/></a>
+<a href="https://expressjs.com/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
   width="48"
   height="48"
   alt="Express"
-/><img
+/></a>
+<a href="https://www.mongodb.com/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
   width="48"
   height="48"
   alt="MongoDB"
-/><img
+/></a>
+<a href="https://nextjs.org/"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
   width="48"
   height="48"
   alt="NextJS"
-/>
+/></a>
