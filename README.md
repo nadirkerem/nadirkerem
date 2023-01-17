@@ -3,8 +3,8 @@
 <h3 align="center">I'm a passionate full-stack developer currently looking for new opportunities</h4>
 
 - 🌍 I'm based in Istanbul, Turkey
-- 🚀 I'm currently learning new technologies
-- 🤝 I’m looking to collaborate on interesting projects
+- 🤝 I’m currently working as a freelancer
+- 🚀 I'm constantly learning new technologies
 - ✉️ You can contact me at [nadirkeremcetin@gmail.com](mailto:nadirkeremcetin@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nadir-kerem-cetin)
 
 ### My Tech Stack
