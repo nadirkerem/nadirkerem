@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋 My name is Kerem</h1>
 
-<h3 align="center">I'm a passionate full-stack developer currently looking for new opportunities</h4>
+<h3 align="center">I'm a passionate full-stack web developer</h3>
 
-- 🌍 I'm based in Istanbul, Turkey
-- 🤝 I’m currently working as a freelancer
-- 🚀 I'm constantly learning new technologies
-- ✉️ You can contact me at [nadirkeremcetin@gmail.com](mailto:nadirkeremcetin@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nadir-kerem-cetin)
-
-### My Tech Stack
+- 🚀 I'm a full stack developer with a passion for creating web applications that are intuitive and provide a seamless user experience.
+- 💻 I'm dedicated to learning in order to stay up-to-date and writing clean code that follows best practices.
+- 🤝 I'm currently working as a freelancer and collaborating on projects.
+- 📫 You can reach me at [nadirkeremcetin@gmail.com](mailto:nadirkeremcetin@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nadir-kerem-cetin)
 
 
+<h4 align="center">My Tech Stack</h4>
+
+<div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   width="36"
@@ -94,6 +95,12 @@
   height="36"
   alt="PostgreSQL"
 /></a>
+<a href="https://www.graphql.org/" target="_blank"><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+  width="36"
+  height="36"
+  alt="GraphQL"
+/></a>
 <a href="https://nextjs.org/" target="_blank"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
   width="36"
@@ -106,3 +113,4 @@
   height="36"
   alt="Docker"
 /></a>
+</div>
