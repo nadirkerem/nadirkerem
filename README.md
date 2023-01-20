@@ -53,11 +53,11 @@
   height="36"
   alt="Redux Toolkit"
 /></a>
-<a href="https://mui.com/" target="_blank"><img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+<a href="https://nextjs.org/" target="_blank"><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
   width="36"
   height="36"
-  alt="Material UI"
+  alt="NextJS"
 /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
@@ -70,6 +70,12 @@
   width="36"
   height="36"
   alt="Bootstrap"
+/></a>
+<a href="https://mui.com/" target="_blank"><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+  width="36"
+  height="36"
+  alt="Material UI"
 /></a>
 <a href="https://nodejs.org/" target="_blank"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -100,12 +106,6 @@
   width="36"
   height="36"
   alt="GraphQL"
-/></a>
-<a href="https://nextjs.org/" target="_blank"><img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
-  width="36"
-  height="36"
-  alt="NextJS"
 /></a>
 <a href="https://www.docker.com/" target="_blank"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
