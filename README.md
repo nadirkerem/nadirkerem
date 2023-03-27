@@ -107,10 +107,21 @@
   height="36"
   alt="GraphQL"
 /></a>
+<a href="https://www.firebase.google.com/" target="_blank"><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+  width="36"
+  height="36"
+  alt="Firebase"
+/></a>
+<a href="https://www.jestjs.io/" target="_blank"><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+  width="30"
+  height="30"
+  alt="Jest"
+/></a>
 <a href="https://www.docker.com/" target="_blank"><img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
   width="36"
   height="36"
   alt="Docker"
 /></a>
-</div>
