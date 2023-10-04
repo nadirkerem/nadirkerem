@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 My name is Kerem</h1>
 
-<h3 align="center">I'm a passionate full-stack web developer</h3>
+<h3 align="center">I'm a passionate web developer</h3>
 
-- 🚀 I'm a full stack developer with a passion for creating web applications that are intuitive and provide a seamless user experience.
+- 🚀 I'm a web developer with a passion for creating web applications that are intuitive and provide a seamless user experience.
 - 💻 I'm dedicated to learning in order to stay up-to-date and writing clean code that follows best practices.
 - 🤝 I'm currently working as a freelancer and collaborating on projects.
 - 📫 You can reach me at [nadirkeremcetin@gmail.com](mailto:nadirkeremcetin@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nadir-kerem-cetin)
