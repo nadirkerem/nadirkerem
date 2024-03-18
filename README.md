@@ -60,7 +60,7 @@
   alt="NextJS"
 /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
   width="36"
   height="36"
   alt="Tailwind CSS"
