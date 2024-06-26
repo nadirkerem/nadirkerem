@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 My name is Kerem</h1>
 
-<h3 align="center">I'm a passionate web developer</h3>
+<h3 align="center">I'm a passionate software developer</h3>
 
-- 🚀 I'm a web developer with a passion for creating web applications that are intuitive and provide a seamless user experience.
-- 💻 I'm dedicated to learning in order to stay up-to-date and writing clean code that follows best practices.
-- 🤝 I'm currently working as a freelancer and collaborating on projects.
-- 📫 You can reach me at [nadirkeremcetin@gmail.com](mailto:nadirkeremcetin@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nadir-kerem-cetin)
+- 🚀 Full-stack web developer passionate about creating intuitive web applications that provide a seamless user experience.
+- 💻 Dedicated to continuous learning and writing clean, best-practice code.
+- 🤝 Currently studying Software Engineering Training at Per Scholas and working on personal projects.
+- 📫 Reach me at [nadirkeremcetin@gmail.com](mailto:nadirkeremcetin@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nadir-kerem-cetin)
 
 
 <h4 align="center">My Tech Stack</h4>
